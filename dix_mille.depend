@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1585725564 source:/home/guillaume/Documents/Projets C/dix_mille/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"regles.h"
+	"combinaisons.h"
+	"jeu.h"
+	"esperances.h"
+
+1585404454 /home/guillaume/Documents/Projets C/dix_mille/regles.h
+	<math.h>
+
+1584698326 /home/guillaume/Documents/Projets C/dix_mille/regles.c
+
+1584799120 source:/home/guillaume/Documents/Projets C/dix_mille/regles.c
+	"regles.h"
+
+1585154230 source:/home/guillaume/Documents/Projets C/dix_mille/combinaisons.c
+	<stdlib.h>
+	"regles.h"
+	"combinaisons.h"
+
+1585154211 /home/guillaume/Documents/Projets C/dix_mille/combinaisons.h
+
+1585670983 source:/home/guillaume/Documents/Projets C/dix_mille/jeu.c
+	<stdio.h>
+	"jeu.h"
+	"regles.h"
+	"combinaisons.h"
+	"esperances.h"
+
+1585648486 /home/guillaume/Documents/Projets C/dix_mille/jeu.h
+	"regles.h"
+
+1585725540 source:/home/guillaume/Documents/Projets C/dix_mille/esperances.c
+	<math.h>
+	<stdio.h>
+	"jeu.h"
+	"regles.h"
+	"esperances.h"
+	"combinaisons.h"
+
+1585725496 /home/guillaume/Documents/Projets C/dix_mille/esperances.h
+
