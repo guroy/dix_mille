@@ -22,3 +22,6 @@ Fichiers
 
 ##### <a href="https://github.com/guroy/dix_mille/blob/master/esperances.h">Esperances</a>
 * Bibliothèque de fonctions permettant de calculer la probabilité et l'espérance de gain d'une configuration et un lancer donné
+
+##### <a href="https://github.com/guroy/dix_mille/blob/master/tests_proba.ods">tests_proba.ods</a>
+* Tableur utilisé pour contrôler les calculs de probabilités de combinaisons de dés
